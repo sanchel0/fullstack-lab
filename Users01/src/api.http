@@ -1,0 +1,11 @@
+POST http://localhost:3000/api/users
+Content-Type: application/json
+
+{
+  "name": "Ultra-Slim Laptop 15",
+  "description": "Powerful laptop with 16GB RAM, 512GB SSD, and an Intel i7 processor. Perfect for developers.",
+  "price": 849.99,
+  "stock": 12,
+  "categories": ["Computing", "Laptops", "Work"],"categories2": ["Computing", "Laptops", "Work"],"categories3": ["Computing", "Laptops", "Work"],"categories4": ["Computing", "Laptops", "Work"],"categories5": ["Computing", "Laptops", "Work"],"categories6": ["Computing", "Laptops", "Work"],"categories7": ["Computing", "Laptops", "Work"],"categories8": ["Computing", "Laptops", "Work"],
+  "categories9": ["Computing", "Laptops", "Work"],"categories10": ["Computing", "Laptops", "Work"]
+}
